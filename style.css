@@ -84,6 +84,13 @@ nav button{
     font-size: 20px;
     text-align: center;
 }
+.disclaimer{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 15px;
+    opacity: 0.8;
+}
 .separation {
     height: 7px;
     background-color: rgb(46, 44, 44);
